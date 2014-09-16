@@ -24,11 +24,7 @@ $(document).ready(function () {
 		}, 700); 
 			}
 		});
-//		});
 
-   /* $('html, body').animate({
-        scrollTop: $("#joker").offset().top
-    }, 2000);*/
 
 });
 
